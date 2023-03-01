@@ -1,0 +1,14 @@
+/* Manual styles */
+
+.profile-img {
+    width: 300px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
+h1 {
+    margin-top: 12px;
+}
